@@ -10,3 +10,22 @@ Git Configuration
 Clone git repo to local machine
 # -> git clone <link of repo >
 
+Status Command
+# -> git status
+
+Commits in main repo
+
+# 01 -> git add  index.html add just single file
+# 01 -> git add . add all files
+
+# 02 -> git commit -m "Add index.html file for commit demo" // commit done in local system
+
+Push Commands use for uplod local repos to gitHub repo
+
+# -> git push origin main
+
+To Create New git repo
+
+
+
+
