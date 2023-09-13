@@ -29,3 +29,9 @@ To Create New git repo
 # -> git init
 
 revert back
+
+git ignore 
+
+# -> touch .gitignore
+# after creating add file or folder name to gitignore file
+
