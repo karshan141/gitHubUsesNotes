@@ -25,8 +25,5 @@ Push Commands use for uplod local repos to gitHub repo
 # -> git push origin main
 
 To Create New git repo
+
 # -> git init
-
-what is next
-
-
