@@ -35,3 +35,6 @@ git ignore
 # -> touch .gitignore
 # after creating add file or folder name to gitignore file
 
+# == >>* .log ingnore all files with .log extention
+# --- >> dir/ ingnore all file which is in dir folder
+
